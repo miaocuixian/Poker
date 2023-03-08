@@ -1,7 +1,7 @@
 # Poker Game API
 
 #### Introduce
-全球棋牌游戏API接口，支持多种语言丨全球棋牌游戏API接口，支持多国语言
+全球棋牌游戏API接口，支持多种语言丨Global chess and card game API interface, supporting multiple languages
 
 Include Rummy\Teen Patti\7UP7DOWN\Wingo\Slots 等。
 

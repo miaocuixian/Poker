@@ -2,6 +2,7 @@
 
 #### Introduce
 全球棋牌游戏API接口，支持多种语言丨全球棋牌游戏API接口，支持多国语言
+
 包括 Rummy\Teen Patti\7UP7DOWN\Wingo\Slots 等。
 
 #### Official Website（官网）：

@@ -12,3 +12,6 @@ http://game.tpwins.vip:8801/about/index.html
 QQ：1504885030
 
 Telegram：@Jalonex
+的
+#### Game Picture （游戏截图）
+![car roulette ](https://user-images.githubusercontent.com/90822325/223661663-7fefbd03-c917-4e66-b758-fb28dd05bdb3.jpg)

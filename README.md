@@ -14,6 +14,7 @@ http://game.tpwins.vip:8801/about/index.html
 QQ：1504885030
 
 Telegram：@Jalonex
+https://t.me/Jalonex
 
 
 #### Game Picture （游戏截图）
